@@ -6,5 +6,5 @@
 - 📫 How to reach me arya.t.innovate@gmail.com
 - 💬 Ask me about Python,Django,AI
 - 📝 I regularly write articles on https://ariatahmasebi.ir
-- ⚡ Fun fact: Abar means the big in Persian tell me Abar
+- ⚡ Fun fact: Abar means the greate in Persian, tell me Abar
 
